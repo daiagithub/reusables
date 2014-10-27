@@ -1,3 +1,5 @@
+'Usage: CScript cscript.vbs SourceDirectory ZipFileName.zip
+
 'Get command-line arguments.
 Set objArgs = WScript.Arguments
 InputFolder = objArgs(0)
